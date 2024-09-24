@@ -1,0 +1,38 @@
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "MM Ragdolls",
+  "url": "https://www.mmragdolls.com",
+  "logo": "https://images.squarespace-cdn.com/content/v1/65dced37c954637358c4dc21/08eafe37-9742-43e4-bf87-ed12968e8b30/MM+Ragdolls+Logo+Image+%28Re-sized%29+Copy.png?format=1500w",
+  "description": "MM Ragdolls is a trusted breeder specializing in purebred Ragdoll kittens. We focus on raising healthy, socialized, and affectionate kittens that make perfect companions for loving homes. Visit us to learn more about our current litters and adoption process.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "email": "mandmragdolls@gmail.com"
+  },
+  "sameAs": [
+    "https://www.instagram.com/mm.ragdolls/",
+    "https://www.tiktok.com/@mm.ragdolls?lang=en"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "North Arlington",
+    "addressRegion": "NJ",
+    "postalCode": "07031",
+    "addressCountry": "US"
+  }
+}
+</script>
+
+
+<!-- Meta Tags -->
+<title>MM Ragdolls - Purebred Ragdoll Kittens for Adoption</title>
+<meta name="description" content="MM Ragdolls is a trusted breeder specializing in purebred Ragdoll kittens. We focus on raising healthy, socialized, and affectionate kittens that make perfect companions for loving homes. Visit us to learn more about our current litters and adoption process.">
+<meta name="keywords" content="Ragdoll kittens, cat breeder, kittens for adoption, purebred Ragdolls, NJ cat breeder, purebred Ragdoll kittens">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="MM Ragdolls - Purebred Ragdoll Kittens for Adoption">
+<meta property="og:description" content="MM Ragdolls is a trusted breeder specializing in purebred Ragdoll kittens. We focus on raising healthy, socialized, and affectionate kittens that make perfect companions for loving homes. Visit us to learn more about our current litters and adoption process.">
+<meta property="og:url" content="https://www.mmragdolls.com">
+<meta property="og:image" content="https://images.squarespace-cdn.com/content/v1/65dced37c954637358c4dc21/08eafe37-9742-43e4-bf87-ed12968e8b30/MM+Ragdolls+Logo+Image+%28Re-sized%29+Copy.png?format=1500w">
